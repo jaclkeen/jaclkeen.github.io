@@ -645,9 +645,9 @@ fieldset[disabled] .btn-success.active {
     margin-top: 15%;
   }
   .tech{
-    width: 29%;
+    width: 28%;
   }
   .skills{
-    letter-spacing: 7px;
+    letter-spacing: 4px;
   }
 }
