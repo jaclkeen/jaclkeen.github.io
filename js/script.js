@@ -73,7 +73,7 @@ ctx.fillStyle = '#000';
 ctx.fillRect( 0, 0, w, h );
 anim();
 
-window.addEventListener( 'resize', function(){
+/*window.addEventListener( 'resize', function(){
 
   w = c.width = window.innerWidth;
   h = c.height = window.innerHeight + 50;
@@ -83,7 +83,7 @@ window.addEventListener( 'resize', function(){
   ctx.fillRect( 0, 0, w, h );
 
   maxRadius = Math.sqrt( w*w/4 + h*h/4 );
-})
+})*/
 // END CANVAS ANIMATIONS
 
 setInterval(blinker, 1000);
