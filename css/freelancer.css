@@ -529,8 +529,8 @@ fieldset[disabled] .btn-success.active {
   z-index: -1;
 }
 .profilePic{
-  margin-top: -6%;
-  width: 19%;
+  margin-top: 0;
+  width: 25%;
   height: auto;
   border-radius: 140px;
 }
