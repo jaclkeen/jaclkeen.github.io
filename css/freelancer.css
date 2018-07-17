@@ -104,6 +104,9 @@ header .intro-text .skills {
     letter-spacing: 7px;
   }
 }
+.portfolio{
+  margin-top: 20%; 
+}
 .navbar-custom {
   background: #2C3E50;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
